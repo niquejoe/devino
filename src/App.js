@@ -7,8 +7,9 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Divino Patingo <code>src/App.js</code> and save to reload.
+         Oten ni Divino Patingo Gamay <code>src/App.js</code> and save to reload.
         </p>
+        <p>Oten ni kong gamay</p>
         <a
           className="App-link"
           href="https://reactjs.org"
